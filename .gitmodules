@@ -1,3 +1,0 @@
-[submodule "common/spcoin-lib"]
-	path = common/spcoin-lib
-	url = git@github.com:sponsorCoinAdmin/spcoin-lib.git
