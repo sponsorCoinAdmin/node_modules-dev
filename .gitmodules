@@ -7,3 +7,6 @@
 [submodule "spcoin-weth-module-cjs"]
 	path = spcoin-weth-module-cjs
 	url = git@github.com:sponsorCoinAdmin/spcoin-weth-module-cjs.git
+[submodule "spcoin-back-end"]
+	path = spcoin-back-end
+	url = git@github.com:sponsorCoinAdmin/spcoin-back-end.git
