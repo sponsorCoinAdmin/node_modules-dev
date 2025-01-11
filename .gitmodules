@@ -4,6 +4,3 @@
 [submodule "spcoin-common"]
 	path = spcoin-common
 	url = git@github.com:sponsorCoinAdmin/spcoin-common
-[submodule "spcoin-back-end"]
-	path = spcoin-back-end
-	url = git@github.com:sponsorCoinAdmin/spcoin-back-end.git
