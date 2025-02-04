@@ -1,5 +1,5 @@
 {
-  "name": "@sponsorcoin/spcoin-lib",
+  "name": "@sponsorcoin/spcoin-lib-es6",
   "version": "1.0.0",
   "description": "Sponsor Coin library's",
   "main": "utils.js",
